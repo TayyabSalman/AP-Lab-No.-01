@@ -1,1 +1,0 @@
-Summary of Lab Assignment is in .docx file, while codes are in .cpp files. 
